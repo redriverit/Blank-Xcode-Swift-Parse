@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97CB02A1-8549-4689-8E22-524E163AB8FE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DupreeDining</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>50EF9FDC41ACD45325E49B5B42B0DC3F7438C93E</key>
+		<string>https://github.com/redriverit/Dupree.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Swift_Dupree/DupreeDining/DupreeDining.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>50EF9FDC41ACD45325E49B5B42B0DC3F7438C93E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/redriverit/Dupree.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>50EF9FDC41ACD45325E49B5B42B0DC3F7438C93E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>50EF9FDC41ACD45325E49B5B42B0DC3F7438C93E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dupree</string>
+		</dict>
+	</array>
+</dict>
+</plist>
